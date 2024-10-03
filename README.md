@@ -4,15 +4,7 @@ https://github.com/user-attachments/assets/5899f43a-d333-4d19-b110-a9219447c535
 
 ## Overview
 
-MLX-SD-Turbo Interactive Image Generator is a user-friendly interface for generating images using the Stable Diffusion model, optimized with MLX for Apple Silicon. This tool allows users to create stunning images from text prompts with ease and speed.
-
-## Features
-
-- Interactive web interface powered by Gradio
-- Text-to-image generation using Stable Diffusion
-- Optimized performance on Apple Silicon with MLX
-- Customizable image size, generation steps, and seed
-- Advanced settings for fine-tuning (CFG, negative prompts)
+This repo aims to be a user-friendly interface for generating images interactively using the Stable Diffusion turbo model, optimized with MLX for Apple Silicon.
 
 ## Installation
 
@@ -50,7 +42,7 @@ Currently, these don't seem to actually change the image. Would recommend just i
 
 ## Contributing
 
-Contributions to improve MLX-SD-Turbo Interactive Image Generator are welcome. Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
+Contributions to improve are welcome! But might be ignored 😅 (don't take it personally, I have terrible time management). Please feel free to submit pull requests or open issues to suggest improvements or report bugs.
 
 ## License
 
@@ -58,4 +50,4 @@ Apache 2.0
 
 ## Acknowledgements
 
-This project uses the Stable Diffusion model and is optimized with MLX for Apple Silicon. Special thanks to the creators of these technologies and the open-source community.
+This project uses the Stable Diffusion model and is optimized with MLX for Apple Silicon. Special thanks to the team behind MLX and the open-source community!
