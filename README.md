@@ -1,5 +1,7 @@
 # MLX-SD-Turbo Interactive Image Generator
 
+{mainimage.png}
+
 ## Overview
 
 MLX-SD-Turbo Interactive Image Generator is a user-friendly interface for generating images using the Stable Diffusion model, optimized with MLX for Apple Silicon. This tool allows users to create stunning images from text prompts with ease and speed.
