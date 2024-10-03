@@ -1,6 +1,6 @@
 # MLX-SD-Turbo Interactive Image Generator
 
-[Demo Video](demovideo.mov)
+[Demo Video](demo.mov)
 
 ## Overview
 
