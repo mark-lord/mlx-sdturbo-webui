@@ -1,6 +1,6 @@
 # MLX-SD-Turbo Interactive Image Generator
 
-[Demo Video](demosmall.mov)
+[![Demo Video](https://img.youtube.com/vi/VwJ2Ik_faH8/0.jpg)](https://www.youtube.com/watch?v=VwJ2Ik_faH8)
 
 ## Overview
 
