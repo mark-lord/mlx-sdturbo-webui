@@ -1,6 +1,6 @@
 # MLX-SD-Turbo Interactive Image Generator
 
-![Demo video](https://github.com/mark-lord/mlx-sdturbo-webui/raw/main/demosmall.mov)
+https://github.com/user-attachments/assets/5899f43a-d333-4d19-b110-a9219447c535
 
 ## Overview
 
