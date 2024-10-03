@@ -14,28 +14,17 @@ MLX-SD-Turbo Interactive Image Generator is a user-friendly interface for genera
 
 ## Installation
 
-1. Clone the repository:
-   '''
-   git clone https://github.com/mark-lord/mlx-sdturbo-webui.git
-   cd mlx-sdturbo-webui
-   '''
+1. Clone the repository: `git clone https://github.com/mark-lord/mlx-sdturbo-webui.git`, then CD into it: `cd mlx-sdturbo-webui`
 
-2. Install the required dependencies (recommend using a virtual environment, but not strictly necessary):
-   '''
-   pip install -r requirements.txt
-   '''
+2. Install the required dependencies (recommend using a virtual environment, but not strictly necessary): `pip install -r requirements.txt`
 
-3. Model weights *should* install on first-time set-up when you run the application. If they don't, then download the folder from https://github.com/ml-explore/mlx-examples/tree/main/stable_diffusion and run txt2img.py. It should download the SD-turbo weights. Then come back to this app.
+3. Model weights *should* install on first-time set-up when you run the application. If they don't, then download the folder from `https://github.com/ml-explore/mlx-examples/tree/main/stable_diffusion` and run `txt2img.py`. It should download the SD-turbo weights. Then come back to this app.
 
 If you get errors in your console, try doing pip **un**install -r requirements.txt. Then reinstall again.
 
 ## Usage
 
-Run the application with:
-
-'''
-python sd-gradio.py
-'''
+Run the application with: `python sd-gradio.py`
 
 This will start the Gradio interface. Open the provided URL in your web browser to access the image generator.
 
